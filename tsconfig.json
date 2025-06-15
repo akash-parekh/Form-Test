@@ -13,7 +13,7 @@
         "esModuleInterop": true,
         "module": "esnext",
         "target": "esnext",
-        "moduleResolution": "node",
+        "moduleResolution": "bundler",
         "allowJs": true,
         "allowSyntheticDefaultImports": true,
         "strict": true,
